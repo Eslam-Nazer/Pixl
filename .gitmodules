@@ -1,3 +1,6 @@
 [submodule "Pixl-html-css"]
 	path = Pixl-html-css
 	url = git@github.com:Eslam-Nazer/Pixl-html-css.git
+[submodule "Pixl-laravel-blade"]
+	path = Pixl-laravel-blade
+	url = git@github.com:Eslam-Nazer/Pixl-laravel-blade.git
