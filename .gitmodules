@@ -4,3 +4,6 @@
 [submodule "Pixl-laravel-blade"]
 	path = Pixl-laravel-blade
 	url = git@github.com:Eslam-Nazer/Pixl-laravel-blade.git
+[submodule "Pixl-laravel-vuejs"]
+	path = Pixl-laravel-vuejs
+	url = https://github.com/Eslam-Nazer/Pixl-laravel-vuejs.git
